@@ -1,0 +1,2 @@
+telegram_token = '5062222730:AAHOkw1IBqFvRM72h7-qOTjKIJncuc8BLc8'
+shark_stiker = 'CAACAgIAAxkBAAECJZZga4cckLRzHaYkKV_ITvz2y8wkCwACEAgAAhhC7gjgH5yR3t9Gbh4E'

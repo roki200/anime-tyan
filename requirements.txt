@@ -1,0 +1,8 @@
+aiofiles==0.8.0
+aiogram==2.16
+aiohttp==3.8.1
+aiosignal==1.2.0
+async-lru==1.0.2
+async-timeout==4.0.1
+attrs==21.2.0
+nekos.py==1.0.3
