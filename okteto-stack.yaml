@@ -1,4 +1,4 @@
-name: hikka
+name: anime-tyan
 services:
   worker:
     public: true
