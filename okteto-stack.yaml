@@ -10,7 +10,7 @@ services:
       cpu: 900m
       memory: 2Gi
     volumes:
-      - worker:/data
+      - worker:/main.py
  
 volumes:
   worker:
